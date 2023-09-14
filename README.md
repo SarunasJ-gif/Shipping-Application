@@ -5,9 +5,10 @@
 ## Table of Contents
 
 - [Description](#Description)
+- [Input](#Input)
+- [Output](#Output)
 - [Prerequisites](#Prerequisites)
 - [Technologies](#Technologies)
-- [API Endpoints](#API-Endpoints)
 
 ---
 
